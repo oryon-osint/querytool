@@ -26,13 +26,13 @@
 
 # About
 
-**QueryTool** is an OSINT framework based on Google Spreadsheets. Its task is to automate the creation of queries within the popular search engines to get the desired results. QueryTool is the perfect starting point for an initial reconnaissance. With this tool you can also perform complex search of terms, people, email addresses, files and many more. QT mainly consists of resources that provide direct access to search results. This is a subjective set of tools and services that supports the cyber investigation process.
+**QueryTool** is an OSINT framework based on Google Spreadsheets. Its designed to automate the creation of queries within the popular search engines to get the desired results. QueryTool is the perfect starting point for an initial reconnaissance. With this tool you can also perform complex search of terms, people, email addresses, files and many more. QT mainly consists of resources that provide direct access to search results. This is a subjective set of tools and services that supports the cyber investigation process.
 
 # Usage
 
 1. Before using the tool, sign in to your Google account, go to QueryTool, and then choose **File > Make a copy**. From that moment you will use your own copy of the tool (editable version).	
 
-2. Go to Recon sheet and enter the input data. Not all fields are required, just enter what you have and check the links generated in the appropriate section.
+2. Go to Recon sheet and enter input data. Not all fields are required, just enter what you have and check the links generated in the appropriate section.
 		
 2. When searching for a specific phrases, use a **dot instead of a space** - so you will not lose the hyperlink. Dots will not affect the results.	
 
