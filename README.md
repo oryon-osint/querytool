@@ -1,5 +1,9 @@
 # querytool
-
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/last%20update-11%2F09%2F20-red">
+  </a>
+	
 <h1 align="center">
   <br>
   <a href="https://github.com/oryon-osint/querytool"><img src="https://i.ibb.co/qJym8Nw/oryon-icon.png" alt="oryon-osint-querytool"></a>
