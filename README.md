@@ -22,7 +22,7 @@
   </a>
 </p>
 
-![demo](https://i.ibb.co/XFbdqdq/demo-qt.png)
+![demo](https://i.ibb.co/j8pYdyd/demo-qt.png)
 
 # About
 
