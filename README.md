@@ -45,18 +45,17 @@
 # Download
   <a href="https://cutt.ly/osint-querytool"><img src="https://i.ibb.co/yXRKwjM/sheet-download.png" alt="osint-querytool"></a>
 
+# Discord OSINT HUB
+*OSINT knowledge base and learning platform*
+https://discord.gg/FCe3UNf8z3
+
+[![dc-logo](https://i.ibb.co/GPwN83t/Discord-Logo-Color.png)](https://discord.gg/FCe3UNf8z3)
 
 # Author
 
 M.Meller
 ↳ [MIIS](http://miis.pl)
 ↳ ORYON OSINT
-
-# Join Discord OSINT HUB
-
-https://discord.gg/FCe3UNf8z3
-
-[![dc-logo](https://i.ibb.co/GPwN83t/Discord-Logo-Color.png)](https://discord.gg/FCe3UNf8z3)
 
 
 
