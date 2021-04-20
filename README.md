@@ -50,7 +50,13 @@
 
 M.Meller
 ↳ [MIIS](http://miis.pl)
-↳ ORYON SYSTEMS
 ↳ ORYON OSINT
+
+# Join Discord OSINT HUB
+
+https://discord.gg/FCe3UNf8z3
+
+[![dc-logo](https://i.ibb.co/GPwN83t/Discord-Logo-Color.png)](https://discord.gg/FCe3UNf8z3)
+
 
 
