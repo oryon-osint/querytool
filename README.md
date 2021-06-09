@@ -1,7 +1,7 @@
 # querytool
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/last%20update-11%2F09%2F20-red">
+    <img src="https://img.shields.io/badge/last%20update-09%2F06%2F21-red">
   </a>
 	
 <h1 align="center">
