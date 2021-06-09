@@ -26,7 +26,7 @@
   </a>
 </p>
 
-![demo](https://i.ibb.co/j8pYdyd/demo-qt.png)
+![demo](https://i.ibb.co/HGd7Ny7/querytools.png)
 
 # About
 
