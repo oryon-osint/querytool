@@ -1,7 +1,7 @@
 # querytool
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/last%20update-09%2F06%2F21-red">
+    <img src="https://img.shields.io/badge/last%20update-28%2F07%2F22-red">
   </a>
 	
 <h1 align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v1.1-blue">
+    <img src="https://img.shields.io/badge/version-v1.3-blue">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/platform-windows%20macos%20linux-lightgrey">
