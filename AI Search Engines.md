@@ -1,6 +1,6 @@
 ## AI Search Engines
 
-| Search Engine Name      | Description                                                                              | Link                                    | Payment                          |
+| Search Engine      | Description                                                                              | Link                                    | Payment                          |
 | ----------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------- |
 | Bing                    | Microsoft's search engine integrated with AI features for better search experience.      | [Bing](https://www.bing.com)            | Free                             |
 | Phind                   | Search engine designed for developers, providing immediate technical answers.            | [Phind](https://www.phind.com)          | Free                             |
