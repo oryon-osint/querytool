@@ -1,4 +1,4 @@
-## Google Sheet designed for OSINT
+## QUERYTOOL - Google Sheet designed for OSINT
 
 ![demo](https://i.ibb.co/HGd7Ny7/querytools.png)
 
