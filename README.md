@@ -1,61 +1,50 @@
-# querytool
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/last%20update-28%2F07%2F22-red">
-  </a>
-	
-<h1 align="center">
-  <br>
-  <a href="https://github.com/oryon-osint/querytool"><img src="https://i.ibb.co/qJym8Nw/oryon-icon.png" alt="oryon-osint-querytool"></a>
-  <br>
-  QUERYTOOL
-  <br>
-</h1>
-
-<h4 align="center">Google Sheet designed for OSINT</h4>
-
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/version-v1.3-blue">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/platform-windows%20macos%20linux-lightgrey">
-  </a>
-  <a href="">
-      <img src="https://img.shields.io/badge/format-spreadsheet-l">
-  </a>
-</p>
+## Google Sheet designed for OSINT
 
 ![demo](https://i.ibb.co/HGd7Ny7/querytools.png)
 
-# About
 
-**QueryTool** is an OSINT framework based on Google Spreadsheets. Its designed to automate the creation of queries within the popular search engines to get the desired results. QueryTool is the perfect starting point for an initial reconnaissance. With this tool you can also perform complex search of terms, people, email addresses, files and many more. QT mainly consists of resources that provide direct access to search results. This is a subjective set of tools and services that supports the cyber investigation process.
+## **About**
+     
+QueryTool is a specialized OSINT framework integrated within Google Sheets, aimed at simplifying the process of generating queries for various search engines to obtain specific results. Designed as an initial step in reconnaissance, QueryTool enables users to conduct sophisticated searches for terms, usernames, email addresses, files, and more. It primarily comprises a set of resources facilitating direct access to search outcomes, supporting the cyber investigation process with a subjective collection of tools and services.
 
-# Usage
+The spreadsheet is categorized into four sections, each containing useful search tools:
 
-1. Before using the tool, sign in to your Google account, go to QueryTool, and then choose **File > Make a copy**. From that moment you will use your own copy of the tool (editable version).	
+1. **Recon & SOCMINT**
+   - Search engines for general research purposes and tools tailored for social media search.
 
-2. Go to Recon sheet and enter input data. Not all fields are required, just enter what you have and check the links generated in the appropriate section.
-		
-2. When searching for a specific phrases, use a **dot instead of a space** - so you will not lose the hyperlink. Dots will not affect the results.	
+2. **Virtual HUMINT**
+   - Tools for gathering and analyzing information about individuals, including wallets and cryptocurrency transaction analysis.
 
-**✖** DO NOT REQUEST AN ACCESS. **MAKE A COPY!**
+3. **Web & Domain**
+   - Resources for domain and website reconnaissance.
 
-# Download
-  <a href="https://cutt.ly/osint-querytool"><img src="https://i.ibb.co/yXRKwjM/sheet-download.png" alt="osint-querytool"></a>
+4. **Dark Web Search**
+   - Search engines for the Tor network, facilitating exploration and investigation of dark web content.
 
-# Discord OSINT HUB
-*OSINT knowledge base and learning platform*
-https://discord.gg/FCe3UNf8z3
+## **Usage**
 
-[![dc-logo](https://i.ibb.co/GPwN83t/Discord-Logo-Color.png)](https://discord.gg/FCe3UNf8z3)
+1. Sign in to your Google account and navigate to the QueryTool spreadsheet.
+2. Select **File** > **Make a copy** to create an editable version for your personal use.
+3. Proceed to the chosen sheet and input the relevant data. It is not mandatory to fill in all fields; provide the information available to you and review the generated links in the designated area.
+4. For searching specific phrases, replace spaces with dots to maintain the hyperlink functionality without impacting search results.
+5. **Important:** Do not request access to the original tool. Always make a copy for personal use.
 
-# Author
+## Contributing
 
-M.Meller
-↳ [MIIS](http://miis.pl)
-↳ ORYON OSINT
+We welcome contributions from the community! If you have suggestions for new search tools or improvements to existing spreadsheet, please feel free to submit an issue or pull request.
+
+## Google Sheets
+
+- [QUERYTOOL](https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit?usp=sharing)
+
+## Community
+
+We're all about sharing and improving. Contribute your ideas or tweaks!
+
+- Discord **Oryon's OSINT Hub**: [Join us](https://discord.gg/3P5G4dDw#)
+- Telegram **ORYON VAULT**: [Follow us](https://t.me/oryonvault)
+- LinkedIn: [Connect with us](https://www.linkedin.com/company/oryon-systems)
+- Website: [Explore more](https://oryon.systems#)
 
 
 
