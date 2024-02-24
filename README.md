@@ -11,13 +11,10 @@ The spreadsheet is categorized into four sections, each containing useful search
 
 1. **Recon & SOCMINT**
    - Search engines for general research purposes and tools tailored for social media search.
-
 2. **Virtual HUMINT**
    - Tools for gathering and analyzing information about individuals, including wallets and cryptocurrency transaction analysis.
-
 3. **Web & Domain**
    - Resources for domain and website reconnaissance.
-
 4. **Dark Web Search**
    - Search engines for the Tor network, facilitating exploration and investigation of dark web content.
 
